@@ -15,13 +15,5 @@ password: anythinghere
 ```
 ### Valid accounts
 ```
-admin:admin
-bob:password
-suresh:troll
-ramesh:troll
-alice:alice1
-voldemort:horcrux
-frodo:frodo
-hodor:hodor
-rhombus:rhombus
+admin:raju@123
 ```
